@@ -49,5 +49,6 @@ public class MainJava extends SeleniumJava {
 
 		//By: Rev Christian
 		//For Testing purposes only.
+		//Thanks.
 	}
 }
