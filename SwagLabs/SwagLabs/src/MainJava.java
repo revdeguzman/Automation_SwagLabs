@@ -46,6 +46,7 @@ public class MainJava extends SeleniumJava {
 		
 		obj.closeBrowser();
 		System.out.println("============================================================");
-		
+
+		//By: Rev Christian
 	}
 }
