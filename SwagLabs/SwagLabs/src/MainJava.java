@@ -48,5 +48,6 @@ public class MainJava extends SeleniumJava {
 		System.out.println("============================================================");
 
 		//By: Rev Christian
+		//For Testing purposes only.
 	}
 }
